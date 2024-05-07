@@ -1,7 +1,7 @@
 /**
  * 
  */
-package actividadestema7;
+package actividadestema7.Ejercicio4;
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;

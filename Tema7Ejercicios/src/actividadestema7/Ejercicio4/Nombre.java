@@ -1,4 +1,4 @@
-package actividadestema7;
+package actividadestema7.Ejercicio4;
 
 public class Nombre {
 	private String nombre = "";
