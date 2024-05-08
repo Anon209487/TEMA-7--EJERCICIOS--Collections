@@ -1,6 +1,6 @@
 package actividadestema7;
 import java.util.*;
-public class Ejercicios {
+public class Ejercicios1Al3 {
 
 		    public static void main(String[] args) {
 		    	 /* Ejercicio 1 */
